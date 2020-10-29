@@ -1,0 +1,65 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="flow" />
+      <item value="流转" />
+      <item value="拒绝" />
+      <item value="决绝" />
+      <item value="同意" />
+      <item value="处理中" />
+      <item value="handler" />
+      <item value="秒" />
+      <item value="剩余" />
+      <item value="聚合" />
+      <item value="常用商品" />
+      <item value="常用" />
+      <item value="allowance" />
+      <item value="补贴" />
+      <item value="返还" />
+      <item value="立即购买" />
+      <item value="立即" />
+      <item value="部分‘’" />
+      <item value="分隔" />
+      <item value="合计" />
+      <item value="确认订单" />
+      <item value="clause" />
+      <item value="批量" />
+      <item value="有效" />
+      <item value="失效" />
+      <item value="售罄" />
+      <item value="笛卡尔积" />
+      <item value="灰" />
+      <item value="置灰" />
+      <item value="件数" />
+      <item value="数量" />
+      <item value="付费 件数" />
+      <item value="付费件数" />
+      <item value="运费" />
+      <item value="入账状态" />
+      <item value="ratio" />
+      <item value="receiver" />
+      <item value="收款" />
+      <item value="chamberlain" />
+      <item value="收款人" />
+      <item value="同步" />
+      <item value="支付" />
+      <item value="外部" />
+      <item value="节省" />
+      <item value="economize" />
+      <item value="thrift" />
+      <item value="save" />
+      <item value="省" />
+      <item value="过期" />
+      <item value="视频" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="11" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
